@@ -5,7 +5,7 @@
 🩺 Anesthesiologist by day, 💻 software developer by night — Aksaray, Türkiye.
 *Just an MD trying to put bugs & patients to sleep.*
 
-**14 public repositories · everything AGPL-3.0-or-later · no paid tier · built in spare time**
+**15 public repositories · everything AGPL-3.0-or-later · no paid tier · built in spare time**
 
 </div>
 
@@ -18,7 +18,6 @@
 | [ProcWitness](https://github.com/Teknesyum/ProcWitness) | Passive process forensics that hands your AI a real evidence file. |
 | [Runly](https://github.com/Teknesyum/Runly) | Double-click JavaScript, PowerShell, Python and shell scripts like native Windows apps. |
 | [Usb-Guard](https://github.com/Teknesyum/Usb-Guard) | Clean and immunize USB drives against shortcut and autorun worms. One `.bat`, no install. |
-| [Reclatch](https://github.com/Teknesyum/Reclatch) | A lightweight Windows screen recorder. Planning. |
 | [Quizloop](https://github.com/Teknesyum/Quizloop) | Adaptive spaced-repetition quiz engine that turns a PDF into a question module. Planning. |
 
 ## Learning And Games
